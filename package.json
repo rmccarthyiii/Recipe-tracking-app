@@ -1,7 +1,7 @@
 {
   "name": "recipe-app",
   "version": "0.1.0",
-  "homepage":  "https://github.com/rmccarthyiii/Recipe-tracking-app",
+  "homepage":  "https://rmccarthyiii.github.io/Recipe-tracking-app/",
   "private": true,
   "dependencies": {
     "react": "^16.13.1",
